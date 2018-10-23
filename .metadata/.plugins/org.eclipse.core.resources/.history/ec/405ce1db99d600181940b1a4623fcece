@@ -1,0 +1,5 @@
+package com.bmdb.web;
+
+public class CreditsController {
+
+}

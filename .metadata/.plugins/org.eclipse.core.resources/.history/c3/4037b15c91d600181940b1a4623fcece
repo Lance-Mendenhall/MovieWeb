@@ -1,0 +1,5 @@
+package com.bmdb.business.movie;
+
+public class Movie {
+
+}

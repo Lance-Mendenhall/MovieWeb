@@ -1,0 +1,5 @@
+package com.bmdb.business.actor;
+
+public class ActorRepository {
+
+}

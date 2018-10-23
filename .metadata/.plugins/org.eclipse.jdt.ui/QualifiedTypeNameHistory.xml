@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.bmdb.business.movie.MovieRepository"/>
+<fullyQualifiedTypeName name="com.bmdb.util.JsonResponse"/>
+<fullyQualifiedTypeName name="com.bmdb.business.movie.Movie"/>
+<fullyQualifiedTypeName name="com.bmdb.business.actor.ActorRepository"/>
+<fullyQualifiedTypeName name="com.bmdb.business.actor.Actor"/>
+<fullyQualifiedTypeName name="com.bmdb.business.credits.CreditsRepository"/>
+<fullyQualifiedTypeName name="com.bmdb.business.credits.Credits"/>
+</qualifiedTypeNameHistroy>
